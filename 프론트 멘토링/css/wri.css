@@ -1,0 +1,51 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+header{
+  background-color: #FF8D25;
+  width: 1920px;
+  height: 118px;
+  position: relative;
+}
+#done{
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  margin: 0px;
+  float: right;
+  position: absolute;
+  right: 40px;
+  top: 30px;
+  text-decoration: none;
+}
+#container{
+  margin-top: 40px;
+  margin-left: 40px;
+}
+h2{
+  color: black;
+  font-size: 40px;
+  font-weight: 600;
+}
+#title textarea{
+  width: 1840px;
+  height: 96px;
+  border: none;
+  border-radius: 10px;
+  background-color: #F4F4F4;
+  font-size: 32px;
+  margin-top: 16px;
+}
+#des{
+  margin-top: 72px;
+}
+#des textarea{
+  width: 1840px;
+  height: 172px;
+  border: none;
+  border-radius: 10px;
+  background-color: #F4F4F4;
+  margin-top: 16px;
+  font-size: 32px;
+}
